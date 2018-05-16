@@ -22,3 +22,5 @@ Steps to make the app work
 
 5.Wait until the mechanic notices and accepts the request.
 
+I have attached a ppt to get more insights onto the app.
+
