@@ -11,8 +11,14 @@ The mobile application is created using Android Studio and Firebase for the data
 This is the client side of the application.Run both the applications simultaneously with different locations in 2 different mobile phones.
 
 Steps to make the app work
+
 1.Open the mechanic app and login using the credentials.
+
 2.Open the customer app and login using the credentials.
+
 3.Use the switch on the top left corner of the mechanic app to make the mechanic available.
+
 4.Generate the request using the floating bar button on the bottom right corner inside the customer app.
+
 5.Wait until the mechanic notices and accepts the request.
+
